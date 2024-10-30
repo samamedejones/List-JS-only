@@ -10,7 +10,7 @@ This project, as simple as it was, was very important for my development, becaus
 
 
 link:
-https://samamedejones.github.io/guessing-game/
+https://samamedejones.github.io/lista-jspuro/
 
 
 
